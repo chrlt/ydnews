@@ -1,0 +1,1 @@
+imei=868937037636119&isemu=2&lang=in-ID&market=googleplay&phoneBrand=xiaomi&pushType=xiaomi&sign=e75568e3c61067820d50dffc36f7cafef9b90c66&time=1545946318471&tk=&token=af299e5905cbc33bc6c18c142e0c3c8e&uuid=0a592e2b-a3ef-4cb8-acfe-27ac0684bb9e&version=7&versionName=1.0.7&wifi=3G
